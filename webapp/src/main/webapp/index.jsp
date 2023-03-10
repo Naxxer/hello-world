@@ -1,5 +1,5 @@
 <form action="action_page.php">
-  <div class="container" style="background-color:black">
+  <div class="container" style="background-color:red">
     <h1>New user GIMME YOUR DATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA pleeeeaaaaase</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
